@@ -1,0 +1,1 @@
+Sitemap: https://github.com/paciorek/stat555/sitemap.xml
